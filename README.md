@@ -19,6 +19,11 @@
 
 I run an educational blog called [`helpful.wiki`](https://helpful.wiki) where I teach others about software engineering. Maybe take a look, who knows, you might just learn something new!
 
-- 🌱 Currently learning the Go programming language. Code reviews welcome.
-- 🔭 I’m currently working on ... building a CLI to help developers flash their keyboard firmware
-    You can check it out at <https://github.com/zsa/wally/pull/122>
+- 🌱 Currently learning the Go programming language. If you haven't taken [A Tour of Go][],
+      you should really consider it.
+- 🔭 I’m currently working on a CLI for [Wally](https://github.com/zsa/wally), an
+      application to help developers flash their keyboard firmware.
+      Most recent contribution: <https://github.com/zsa/wally/pull/122>
+
+
+[A Tour of Go]: https://tour.golang.org/welcome/1
