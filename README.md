@@ -9,9 +9,10 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=austintraver&theme=graywhite&layout=compact" />
 </a>
 
-<img width="300" align="right" alt="GIF" src="pusheen.gif">
 
 ## About
+
+![Pusheen](/pusheen.gif)
 
 - Student at the University of Southern California ✌🏻
 - Pursuing a Master's degree in Computer Science 💾
