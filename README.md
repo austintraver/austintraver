@@ -9,8 +9,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=austintraver&theme=graywhite&layout=compact" />
 </a>
 
-<a href="https://stackoverflow.com/users/11865893/chahu418"><img src="https://stackoverflow.com/users/flair/11865893.png?theme=clean" width="208" height="58" alt="profile for chahu418 at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for chahu418 at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
-
 ## About
 
 ![Pusheen](/pusheen.gif)
@@ -30,3 +28,7 @@ I run an educational blog called [`helpful.wiki`][wiki] where I teach others abo
 [A Tour of Go]: https://tour.golang.org/welcome/1
 [The Go Programming Language]: https://www.google.com/books/edition/The_Go_Programming_Language/SJHvCgAAQBAJ
 [Wally]: https://github.com/zsa/wally
+
+---
+
+<a href="https://stackoverflow.com/users/11865893/chahu418"><img src="https://stackoverflow.com/users/flair/11865893.png?theme=clean" width="208" height="58" alt="profile for chahu418 at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for chahu418 at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
