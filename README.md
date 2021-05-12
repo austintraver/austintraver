@@ -9,10 +9,12 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=austintraver&theme=graywhite&layout=compact" />
 </a>
 
+<a href="https://stackoverflow.com/users/11865893/chahu418"><img src="https://stackoverflow.com/users/flair/11865893.png?theme=clean" width="208" height="58" alt="profile for chahu418 at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for chahu418 at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
 
 ## About
 
 ![Pusheen](/pusheen.gif)
+
 
 - Student at the University of Southern California ✌🏻
 - Pursuing a Master's degree in Computer Science 💾
