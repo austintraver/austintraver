@@ -2,9 +2,7 @@
 
 # Austin Traver
 
-## [Resume](https://resume.austin.jp) 🌟
-
-You can also visit https://resume.austin.jp directly.
+## <https://resume.austin.jp> 🌟
 
 ## Stats
 
