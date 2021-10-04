@@ -17,8 +17,8 @@
 
 ## 🌟 <https://resume.austin.jp>
 
-- Student at the University of Southern California (USC) ✌🏻
-- Pursuing a Master's degree in Computer Science 💾
+- ✏️ Student at the University of Southern California (USC) ✌🏻
+- 🎓 Pursuing a Master's Degree in Computer Science 👨🏻‍💻
 
 I run an educational blog called [`helpful.wiki`][wiki] where I teach others about software engineering. Consider taking a look. Who knows? You might just learn something new! 📖
 
