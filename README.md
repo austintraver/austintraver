@@ -8,12 +8,11 @@
   <img align="center" alt="" width="330" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=austintraver&theme=vue&langs_count=8&exclude_repo=usclassifieds,newsfeed&hide=ruby,kotlin,roff,scss&layout=compact">
 </a>
 
-## 🌟 <https://resume.austin.jp>
-
 ## About
 
 - ✏️ Student at the University of Southern California (USC) ✌🏻
 - 🎓 Pursuing a Master's Degree in Computer Science 👨🏻‍💻
+
 
 I run an educational blog called [`helpful.wiki`][wiki] where I teach others about software engineering. Consider taking a look. Who knows? You might just learn something new! 📖
 
@@ -30,3 +29,5 @@ I run an educational blog called [`helpful.wiki`][wiki] where I teach others abo
 [A Tour of Go]: https://tour.golang.org/welcome/1
 [The Go Programming Language]: https://www.google.com/books/edition/The_Go_Programming_Language/SJHvCgAAQBAJ
 [Wally]: https://github.com/zsa/wally
+
+# 🌟 <https://resume.austin.jp> 💼 
