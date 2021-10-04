@@ -6,11 +6,11 @@
 
 
 <a href="#">
-  <img align="center" alt="" height="200" src="https://github-readme-stats.vercel.app/api?username=austintraver&theme=vue&show_icons=true&count_private=true">
+  <img align="center" alt="" width="450" height="200" src="https://github-readme-stats.vercel.app/api?username=austintraver&theme=vue&show_icons=true&count_private=true">
 </a>
 
 <a href="#">
-  <img align="center" alt="" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=austintraver&theme=vue&langs_count=8&exclude_repo=usclassifieds,newsfeed&hide=ruby,kotlin,roff,scss&layout=compact">
+  <img align="center" alt="" width="330" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=austintraver&theme=vue&langs_count=8&exclude_repo=usclassifieds,newsfeed&hide=ruby,kotlin,roff,scss&layout=compact">
 </a>
 
 ## About
