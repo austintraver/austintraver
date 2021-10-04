@@ -1,10 +1,5 @@
 <!-- **austintraver/austintraver** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-# Austin Traver
-
-## Stats
-
-
 <a href="#">
   <img align="center" alt="" width="450" height="200" src="https://github-readme-stats.vercel.app/api?username=austintraver&theme=vue&show_icons=true&count_private=true">
 </a>
@@ -13,9 +8,9 @@
   <img align="center" alt="" width="330" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=austintraver&theme=vue&langs_count=8&exclude_repo=usclassifieds,newsfeed&hide=ruby,kotlin,roff,scss&layout=compact">
 </a>
 
-## About
-
 ## 🌟 <https://resume.austin.jp>
+
+## About
 
 - ✏️ Student at the University of Southern California (USC) ✌🏻
 - 🎓 Pursuing a Master's Degree in Computer Science 👨🏻‍💻
