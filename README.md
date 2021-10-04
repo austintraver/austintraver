@@ -4,16 +4,21 @@
 
 ## Stats
 
+
 <a href="#">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=austintraver&theme=graywhite&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=austintraver&theme=graywhite&layout=compact" />
+  <img align="center" alt="" height="250" src="https://github-readme-stats.vercel.app/api?username=austintraver&theme=vue&show_icons=true&count_private=true">
+</a>
+
+<a href="#">
+  <img align="center" alt="" height="250" src="https://github-readme-stats.vercel.app/api/top-langs/?username=austintraver&theme=vue&langs_count=8&exclude_repo=usclassifieds,newsfeed&hide=ruby,kotlin,roff,scss">
 </a>
 
 ## About
 
 ![Pusheen](/pusheen.gif)
 
-## <https://resume.austin.jp> 🌟
+
+## 🌟 <https://resume.austin.jp>
 
 - Student at the University of Southern California (USC) ✌🏻
 - Pursuing a Master's degree in Computer Science 💾
