@@ -30,4 +30,4 @@ I run an educational blog called [`helpful.wiki`][wiki] where I teach others abo
 [The Go Programming Language]: https://www.google.com/books/edition/The_Go_Programming_Language/SJHvCgAAQBAJ
 [Wally]: https://github.com/zsa/wally
 
-# 🌟 <https://resume.austin.jp> 💼 
+## 🌟 <https://austin.jp/resume> 💼 
