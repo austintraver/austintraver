@@ -5,7 +5,7 @@
 </a>
 
 <a href="#">
-    <img align="center" alt="" width="330" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=austintraver&theme=vue&langs_count=8&exclude_repo=usclassifieds,newsfeed&hide=shell,powershell,ruby,kotlin,roff,scss,vim,perl,css%20script&layout=compact">
+    <img align="center" alt="" width="330" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=austintraver&theme=vue&langs_count=8&exclude_repo=usclassifieds,newsfeed&hide=shell,powershell,ruby,kotlin,roff,scss,perl,css&layout=compact">
 </a>
 
 ## About
