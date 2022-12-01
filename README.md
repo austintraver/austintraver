@@ -1,20 +1,24 @@
 <!-- **austintraver/austintraver** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
+<p width="100%">
 <a href="#">
-    <img align="center" alt="" width="450" height="200" src="https://github-readme-stats.vercel.app/api?username=austintraver&theme=vue&show_icons=true&count_private=true">
+<img alt="" height="250" src="https://github-readme-stats.vercel.app/api?username=austintraver&theme=vue&show_icons=true&count_private=true">
 </a>
-
 <a href="#">
-    <img align="center" alt="" width="330" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=austintraver&theme=vue&langs_count=8&exclude_repo=usclassifieds,newsfeed&hide=shell,powershell,vim%20script,ruby,kotlin,roff,scss,perl,css&layout=compact">
+<img alt="" height="250" src="https://github-readme-stats.vercel.app/api/top-langs/?username=austintraver&theme=vue&langs_count=8&exclude_repo=usclassifieds,newsfeed&hide=shell,powershell,vim%20script,ruby,kotlin,roff,scss,perl,css&layout=compact">
 </a>
+</p>
+    
+---
 
 ## About
 
-<!-- ![image](https://user-images.githubusercontent.com/25112463/153734629-270b5e75-bb51-468c-b53e-4dd5f5fa92e3.gif) -->
-
-<a>
-    <img align="right" alt="" width-"300" height="300" src="https://user-images.githubusercontent.com/25112463/153734629-270b5e75-bb51-468c-b53e-4dd5f5fa92e3.gif">
-</a>
+<img 
+    src="https://user-images.githubusercontent.com/25112463/153734629-270b5e75-bb51-468c-b53e-4dd5f5fa92e3.gif"
+    height=300
+    width=300
+    align="right"
+    >
 
 - ✏️ Student at the University of Southern California (USC) ✌🏻
 - 🎓 Pursuing a Master's Degree in Computer Science 👨🏻‍💻
