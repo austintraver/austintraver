@@ -17,7 +17,9 @@
     width=300
     align="right"
     >
-    
+
+---
+
 - 🎓 Bachelor's Degree in Computer Science – University of Southern California ✌🏻
 - 💼 [`austin.jp/resume`][resume] 🔗
 
