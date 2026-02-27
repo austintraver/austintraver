@@ -1,10 +1,10 @@
 <!-- **austintraver/austintraver** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 <p width="100%">
-    <a href="#">
+    <a href="https://github.com/anuraghazra/github-readme-stats">
         <img alt="" height="250" src="https://github-readme-stats.vercel.app/api?username=austintraver&theme=vue&show_icons=true&count_private=true">
     </a>
-    <a href="#">
+    <a href="https://github.com/anuraghazra/github-readme-stats">
         <img alt="" height="250" src="https://github-readme-stats.vercel.app/api/top-langs/?username=austintraver&theme=vue&langs_count=8&exclude_repo=usclassifieds,newsfeed&hide=shell,powershell,vim%20script,ruby,kotlin,roff,scss,perl,css,html&layout=compact">
     </a>
 </p>
