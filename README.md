@@ -1,8 +1,13 @@
 <!-- **austintraver/austintraver** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-[![Austin's GitHub stats](https://github-readme-stats.vercel.app/api?username=austintraver&theme=vue&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Austin's GitHub languages](https://github-readme-stats.vercel.app/api/top-langs/?username=austintraver&theme=vue&langs_count=8&exclude_repo=usclassifieds,newsfeed&hide=shell,powershell,vim%20script,ruby,kotlin,roff,scss,perl,css,html&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<p width="100%">
+    <a href="#">
+        <img alt="" height="250" src="https://github-readme-stats.vercel.app/api?username=austintraver&theme=vue&show_icons=true&count_private=true">
+    </a>
+    <a href="#">
+        <img alt="" height="250" src="https://github-readme-stats.vercel.app/api/top-langs/?username=austintraver&theme=vue&langs_count=8&exclude_repo=usclassifieds,newsfeed&hide=shell,powershell,vim%20script,ruby,kotlin,roff,scss,perl,css,html&layout=compact">
+    </a>
+</p>
 
 ## About
 
@@ -12,9 +17,7 @@
     width=300
     align="right"
     >
-
----
-
+    
 - 🎓 Bachelor's Degree in Computer Science – University of Southern California ✌🏻
 - 💼 [`austin.jp/resume`][resume] 🔗
 
